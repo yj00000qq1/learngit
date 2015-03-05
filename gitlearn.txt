@@ -6,3 +6,6 @@ create a branch is quick and simple.
 this is a new commit.
 
 for test stash.
+
+
+this is branch dev's file in test_git.
